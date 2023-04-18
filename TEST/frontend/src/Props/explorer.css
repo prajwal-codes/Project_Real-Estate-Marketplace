@@ -1,0 +1,89 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.logo-img {
+    background-color: #03747a;
+    height: 3rem;
+    margin-left: 0.5rem;
+}
+nav.navbar {
+    background-color: #03747a;
+    display: flex;
+    color : white;
+    font-size: 0.8rem;
+}
+.menu {
+    
+    padding-left: 1rem;
+    padding-right: 1rem;
+    align-self: center;
+    padding-bottom: 0.6rem;
+}
+.loc-block{
+    display: flex;
+}
+.loc-icon {
+    align-self: flex-end;
+    font-size: 1.3rem;
+}
+.text-light{
+    font-weight: lighter;
+}
+.text-bold{
+    font-weight: bold;
+}
+.cart-icon{
+    font-size: 2rem;
+}
+.search-block{
+    border:0px;
+    font-size: 1.3rem;
+    padding: 0.5rem;
+}
+.search-bar {
+    display: flex;
+}
+.search-btn {
+    
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+}
+.search{
+    margin-top: 8px;
+    flex-grow: 1;
+}
+.search-input{
+    width: 100%;
+}
+.product {
+    text-align: center;
+    width: 15rem;
+    margin: 1rem;
+
+}
+img.product-img {
+    width: 15rem;
+}
+span.price {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.page-body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.login
+{   background-color: whitesmoke;
+    width : 6rem;
+    height : 1.5rem;
+    border: 0px;
+    border-radius: 2px; 
+}
+.regBtn
+{   background-color: whitesmoke;
+    width : 6rem;
+    height : 1.5rem;
+    border: 0px;
+    border-radius: 2px; 
+}

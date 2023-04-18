@@ -1,0 +1,58 @@
+body{
+	background-image:"./bg/estate2.jpg";
+	background-color: whitesmoke;
+}
+
+.user-pic{
+	height : 15vh;
+}
+
+.post-text{
+	height : 200px !important;
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+.person-pic{
+	height: 100px;
+	width: 100px;
+}
+.text-small{
+	font-size: 0.7rem;
+}
+
+.user-small-image{
+	height: 50px;
+	width: 50px;
+}
+
+.post-image{
+	height: 40vh;
+	width: 60vw;
+}
+.login_1{
+font-size:1.2rem;
+font-style: italic;
+}
+.reg{
+    
+        font-size:1.2rem;
+        font-style: italic;
+
+}
+.logout{
+	background-color: whitesmoke;
+    width : 6rem;
+    height : 1.5rem;
+    border: 0px;
+    border-radius: 2px; 
+}
+.CartBtn
+{   background-color: whitesmoke;
+    width : 6rem;
+    height : 1.5rem;
+    border: 0px;
+    border-radius: 2px; 
+}
